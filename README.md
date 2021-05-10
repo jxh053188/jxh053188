@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jxh053188
-- 👀 I’m interested in finding work as a mobile of web developer.
-- 🌱 I’m currently learning Koltin and more about web development frameworks. 
-- 💞️ I’m looking to collaborate on anything! Let's work together. 
+- 👋 Hi, I’m Jarred Harkness, your friendly junior Java and Web developer.
+- 👀 I’m interested in finding work as a developer. I am eagar to learn and improve my abilities. 
+- 🌱 I’m currently learning Koltin and more about various web development frameworks like React and JQuery. 
+- 💞️ I’m looking to collaborate on anything! Let's work together!
 - 📫 Email me at jarred.harkness@gmail.com
 
 <!---
