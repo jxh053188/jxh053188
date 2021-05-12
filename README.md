@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Jarred Harkness, your friendly junior Java and Web developer.
+- 👋 Hi, I’m Jarred Harkness, your friendly Java and Web developer. I am a recent graduate with a Bachelor degree in Software Development. I also have a Master of Business Administration.
 - 👀 I’m interested in finding work as a developer. I am eagar to learn and improve my abilities. 
 - 🌱 I’m currently learning Koltin and more about various web development frameworks like React and JQuery. 
 - 💞️ I’m looking to collaborate on anything! Let's work together!
+
+I am currently in the process of relocating to Prague and am seeking new employment. If my profile interests you feel free to contact me. 
+
 - 📫 Email me at jarred.harkness@gmail.com
 
 <!---
