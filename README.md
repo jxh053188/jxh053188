@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jarred Harkness, your friendly Java and Web developer. I am a recent graduate with a Bachelor degree in Software Development. I also have a Master of Business Administration.
-- 👀 I’m interested in finding work as a developer. I am eagar to learn and improve my abilities. 
-- 🌱 I’m currently learning Koltin and more about various web development frameworks like React and JQuery. 
+- 👋 Hi, I’m Jarred Harkness, your friendly Java and Web developer. I have a Bachelor degree in Software Development from Western Governors University. I also have a Master of Business Administration.
+- 👀 I’m interested in frontend development and would like to learn more about mobile development.
+- 🌱 I’m currently learning Koltin and always working to expand my knowledge of frameworks such as React and NodeJS. 
 - 💞️ I’m looking to collaborate on anything! Let's work together!
 
 If my profile interests you feel free to contact me. 
